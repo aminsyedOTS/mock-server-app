@@ -61,6 +61,8 @@
       "email": "cnorssister9@mayoclinic.com"
     }
   ],
-  "todo": [{}, {}],
-  "movies": [{}]
+  "todos": [
+    { "id": 1, "task": "task 1", "completed": false },
+    { "id": 2, "task": "task 2", "completed": false }
+  ]
 }
